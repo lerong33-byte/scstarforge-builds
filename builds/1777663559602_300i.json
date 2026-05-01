@@ -1,0 +1,26 @@
+{
+  "id": 1777663559602,
+  "name": "300i Build 2",
+  "ship": "300i",
+  "act": "Stock Build",
+  "slots": {
+    "sl0": "cf227badgerr",
+    "sl1": "cf227badgerr"
+  },
+  "missiles": {
+    "ms0": "ignite2"
+  },
+  "comps": {
+    "pp": "Regulus S1",
+    "sg": "Palisade S1",
+    "cooler": "Polar S1",
+    "qd": "Drift S1",
+    "radar": "Hunter S1",
+    "counts": {
+      "pp": 1,
+      "sg": 2,
+      "cooler": 2,
+      "qd": 1
+    }
+  }
+}
