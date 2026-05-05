@@ -1,0 +1,24 @@
+{
+  "id": 1778016443038,
+  "name": "135c Build 3",
+  "ship": "135c",
+  "act": "Stock Build",
+  "slots": {
+    "sl0": "attrition1re",
+    "sl1": "attrition1re"
+  },
+  "missiles": {},
+  "comps": {
+    "pp": "Regulus S1",
+    "sg": "Palisade S1",
+    "cooler": "Polar S1",
+    "qd": "Drift S1",
+    "radar": "Hunter S1",
+    "counts": {
+      "pp": 1,
+      "sg": 1,
+      "cooler": 1,
+      "qd": 1
+    }
+  }
+}
