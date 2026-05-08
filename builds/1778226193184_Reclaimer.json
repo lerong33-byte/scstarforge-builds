@@ -1,0 +1,25 @@
+{
+  "id": 1778226193184,
+  "name": "Reclaimer Build 2",
+  "ship": "Reclaimer",
+  "act": "Stock Build",
+  "slots": {
+    "sl0": "cf227badgerr",
+    "sl1": "cf227badgerr",
+    "sl2": "cf227badgerr"
+  },
+  "missiles": {},
+  "comps": {
+    "pp": "Regulus S3",
+    "sg": "Rampart S3",
+    "cooler": "Blizzard S3",
+    "qd": "Drift S3",
+    "radar": "SNS-R6 S3",
+    "counts": {
+      "pp": 2,
+      "sg": 2,
+      "cooler": 2,
+      "qd": 1
+    }
+  }
+}
