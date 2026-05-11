@@ -1,0 +1,28 @@
+{
+  "id": 1778465218874,
+  "name": "Ares Inferno Build 2",
+  "ship": "Ares Inferno",
+  "act": "Stock Build",
+  "slots": {
+    "sl0": "sf7bgatling",
+    "sl1": "cf227badgerr",
+    "sl2": "cf227badgerr"
+  },
+  "missiles": {
+    "ms0": "tbolt3",
+    "ms1": "tbolt3"
+  },
+  "comps": {
+    "pp": "Regulus S2",
+    "sg": "Palisade S2",
+    "cooler": "Arctic S2",
+    "qd": "Drift S2",
+    "radar": "V801-12 S2",
+    "counts": {
+      "pp": 2,
+      "sg": 2,
+      "cooler": 2,
+      "qd": 1
+    }
+  }
+}
